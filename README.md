@@ -11,7 +11,7 @@
 
 <h3>Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/noelia-alp%C3%ADzar-torres-3ba22923b/" target="_blank">
+  <a href="https://www.linkedin.com/in/noelia-alpizar-torres" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:noealto28@gmail.com" target="_blank">
